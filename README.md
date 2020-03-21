@@ -4,7 +4,7 @@
 力扣算法解题
 
 #### 题解
-1. [两数之和](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/TwoSum.java)
+1. [两数之和](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/TwoSum.java)
 2. [最长的回文串](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LongestPalindrome.java)
 3. [最长子串](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LengthOfLongestSubstring.java)
 4. [最小的k个数](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GetLeastNumbers.java)
