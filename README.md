@@ -3,27 +3,15 @@
 #### 介绍
 力扣算法解题
 
-#### 软件架构
-软件架构说明
+#### 题解
+1. [两数之和](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/TwoSum.java)
+2. [最长的回文串](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LongestPalindrome.java)
+3. [最长子串](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LengthOfLongestSubstring.java)
+4. [最小的k个数](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GetLeastNumbers.java)
+5. [水壶问题(最大公约数)](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/CanMeasureWater.java)
+6. [两数相加(链表)](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/AddTwoNumbers.java)
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
 
