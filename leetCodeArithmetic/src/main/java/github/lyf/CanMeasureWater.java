@@ -25,7 +25,6 @@ public class CanMeasureWater {
     public static boolean canMeasureWater(int x, int y, int z) {
         if (z > x + y) return false;
         if (x == z || y == z || x + y == z) return true;
-
         // 保存搜索过的情况，防止无止境的搜索下去
         Set<List<Integer>> set = new HashSet<>();
 

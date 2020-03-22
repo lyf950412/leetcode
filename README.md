@@ -10,6 +10,7 @@
 4. [最小的k个数](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GetLeastNumbers.java)
 5. [水壶问题(最大公约数)](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/CanMeasureWater.java)
 6. [两数相加(链表)](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/AddTwoNumbers.java)
+6. [使数组唯一的最小增量](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MinIncrementForUnique.java)
 
 
 
