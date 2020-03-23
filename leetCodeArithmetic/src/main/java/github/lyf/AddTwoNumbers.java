@@ -1,5 +1,6 @@
 package github.lyf;
 
+
 /**
  * @author lyf
  */
@@ -40,7 +41,6 @@ public class AddTwoNumbers {
             l1.val %= 10;
         }
     }
-
     class ListNode {
         int val;
         ListNode next;
