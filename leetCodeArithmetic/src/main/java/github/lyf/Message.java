@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * @author lyf
  */
-public class Massage {
+public class Message {
     /**
      *  一个有名的按摩师会收到源源不断的预约请求，
      *  每个预约都可以选择接或不接。在每次预约服务之间要有休息时间，
