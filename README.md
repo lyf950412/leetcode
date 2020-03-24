@@ -12,7 +12,7 @@
 6. [两数相加(链表)](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/AddTwoNumbers.java)
 7. [使数组唯一的最小增量](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MinIncrementForUnique.java)
 8. [链表的中间结点](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MiddleNode.java)
-
+9. [按摩师](https://gitee.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Message.java)
 
 
 
