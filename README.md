@@ -15,7 +15,8 @@
 9. [按摩师](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Massage.java)
 10. [三维形体的表面积](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SurfaceArea.java)
 11. [车的捕获量](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/NumRookCaptures.java)
-
+12. [戳气球(困难)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MaxCoins.java)
+13. [卡牌分组(最大公约数)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/HasGroupsSizeX.java)
 
 
 
