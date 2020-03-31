@@ -22,7 +22,7 @@
 16. [寻找有序数组的中位数](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/FindMedianSortedArrays.java)
 17. [圆圈中最后剩下的数字](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LastRemaining.java)
 18. [数组排序](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SortArray.java)
-18. [扑克牌中的顺子](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/IsStraight.java)
+19. [扑克牌中的顺子](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/IsStraight.java)
 
 
 
