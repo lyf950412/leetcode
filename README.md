@@ -23,6 +23,7 @@
 17. [圆圈中最后剩下的数字](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LastRemaining.java)
 18. [数组排序](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SortArray.java)
 19. [扑克牌中的顺子](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/IsStraight.java)
+20. [有效括号的嵌套深度](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MaxDepthAfterSplit.java)
 
 
 
