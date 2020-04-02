@@ -25,6 +25,7 @@
 19. [扑克牌中的顺子](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/IsStraight.java)
 20. [有效括号的嵌套深度](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MaxDepthAfterSplit.java)
 21. [将字符串转换为整数](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/StrToInt.java)
+22. [生命游戏](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GameOfLife.java)
 
 
 
