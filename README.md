@@ -27,6 +27,7 @@
 21. [将字符串转换为整数](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/StrToInt.java)
 22. [生命游戏](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GameOfLife.java)
 23. [数字范围按位与](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/RangeBitwiseAnd.java)
+24. [接雨水](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Trap.java)
 
 
 
