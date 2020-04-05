@@ -28,6 +28,8 @@
 22. [生命游戏](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GameOfLife.java)
 23. [数字范围按位与](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/RangeBitwiseAnd.java)
 24. [接雨水](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Trap.java)
+25. [LRU缓存机制](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LRUCache.java)
+26. [LFU缓存](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LFUCache.java)
 
 
 
