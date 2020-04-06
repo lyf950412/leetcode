@@ -30,6 +30,7 @@
 24. [接雨水](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Trap.java)
 25. [LRU缓存机制](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LRUCache.java)
 26. [LFU缓存](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LFUCache.java)
+27. [构建乘积数组](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/ConstructArr.java)
 
 
 
