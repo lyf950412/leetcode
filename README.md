@@ -34,6 +34,7 @@
 28. [不用加减乘除做加法](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Add.java)
 29. [编辑距离](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MinDistance.java)
 30. [旋转矩阵](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Rotate.java)
+31. [机器人的运动范围(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MovingCount.java)
 
 
 
