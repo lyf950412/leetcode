@@ -36,6 +36,7 @@
 30.[旋转矩阵](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/Rotate.java)
 31.[机器人的运动范围(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MovingCount.java)
 32.[相同的树(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/IsSameTree.java)
+33.[括号生成(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GenerateParenthesis.java)
 
 
 
