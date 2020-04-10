@@ -39,7 +39,7 @@
 33.[括号生成(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GenerateParenthesis.java)
 34.[n个骰子的点数](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/TwoSum1.java)
 35.[翻转字符串里的单词](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/ReverseWords.java)
-35.[二叉搜索树的最近公共祖先1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LowestCommonAncestor.java)
+36.[二叉搜索树的最近公共祖先1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LowestCommonAncestor.java)
 
 
 
