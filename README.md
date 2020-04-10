@@ -38,6 +38,7 @@
 32.[相同的树(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/IsSameTree.java)
 33.[括号生成(DFS)](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/GenerateParenthesis.java)
 34.[n个骰子的点数](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/TwoSum1.java)
+35.[翻转字符串里的单词](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/ReverseWords.java)
 
 
 
