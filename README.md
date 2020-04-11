@@ -41,6 +41,9 @@
 35.[翻转字符串里的单词](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/ReverseWords.java)
 36.[二叉搜索树的最近公共祖先1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LowestCommonAncestor.java)
 37.[二叉树的最近公共祖先](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/LowestCommonAncestor1.java)
+38.[股票卖出的最佳时机](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MaxProfit.java)
+39.[求1+2+…+n](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SumNums.java)
+40.[鸡蛋掉落](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SuperEggDrop.java)
 
 
 
