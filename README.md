@@ -44,6 +44,7 @@
 38.[股票卖出的最佳时机](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MaxProfit.java)
 39.[求1+2+…+n](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SumNums.java)
 40.[鸡蛋掉落](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/SuperEggDrop.java)
+41.[队列的最大值](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/MaxQueue.java)
 
 
 
