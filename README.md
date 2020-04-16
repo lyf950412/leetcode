@@ -39,19 +39,19 @@
      | [201](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range) | 数字范围按位与       | [2](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/RangeBitwiseAnd.java) |
      | [22](https://leetcode-cn.com/problems/generate-parentheses)  | 括号生成             | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/GenerateParenthesis.java) |
      | [146](https://leetcode-cn.com/problems/lru-cache)            | LRU缓存机制          | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/LRUCache.java) |
-     | [289](https://leetcode-cn.com/problems/game-of-life)         | 生命游戏             | 1                                                            |
-     | [820](https://leetcode-cn.com/problems/short-encoding-of-words) | 单词的压缩编码       | 2                                                            |
-     | [912](https://leetcode-cn.com/problems/sort-an-array)        | 排序数组             | 2                                                            |
-     | [945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique) | 使数组唯一的最小增量 | 1                                                            |
-     | [1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 有效括号的最小增量   | 1                                                            |
-     | [1162](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | 地图分析             | 2                                                            |
-     | [面试题13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | 机器人的运动范围     | 1                                                            |
-     | [面试题01.07](https://leetcode-cn.com/problems/rotate-matrix-lcci) | 旋转矩阵             | 1                                                            |
-     | [面试题59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof) | 队列的最大值         | 1                                                            |
-     | [355](https://leetcode-cn.com/problems/design-twitter/)      | 设计推特             | 1                                                            |
-     | [面试题05.04](https://leetcode-cn.com/problems/closed-number-lcci/) | 下一个数             | 1                                                            |
-     | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | 两数相加II           | 1                                                            |
-     | [542](https://leetcode-cn.com/problems/01-matrix/)           | 01矩阵               | 1                                                            |
+     | [289](https://leetcode-cn.com/problems/game-of-life)         | 生命游戏             | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/GameOfLife.java) |
+     | [820](https://leetcode-cn.com/problems/short-encoding-of-words) | 单词的压缩编码       | [2](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/MinimumLengthEncoding.java) |
+     | [912](https://leetcode-cn.com/problems/sort-an-array)        | 排序数组             | [2](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/SortArray.java) |
+     | [945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique) | 使数组唯一的最小增量 | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/MinIncrementForUnique.java) |
+     | [1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 有效括号的嵌套深度   | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/MaxDepthAfterSplit.java) |
+     | [1162](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | 地图分析             | [2](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/MaxDistance.java) |
+     | [面试题13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | 机器人的运动范围     | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/MovingCount.java) |
+     | [面试题01.07](https://leetcode-cn.com/problems/rotate-matrix-lcci) | 旋转矩阵             | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/Rotate.java) |
+     | [面试题59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof) | 队列的最大值         | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/MaxQueue.java) |
+     | [355](https://leetcode-cn.com/problems/design-twitter/)      | 设计推特             | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/Twitter.java) |
+     | [面试题05.04](https://leetcode-cn.com/problems/closed-number-lcci/) | 下一个数             | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/FindClosedNumbers.java) |
+     | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | 两数相加II           | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/AddTwoNumbers1.java) |
+     | [542](https://leetcode-cn.com/problems/01-matrix/)           | 01矩阵               | [1](https://github.com/lyf950412/leetcode/blob/master/leetCodeArithmetic/src/main/java/github/lyf/middle/UpdateMatrix.java) |
 
    * 困难
 
