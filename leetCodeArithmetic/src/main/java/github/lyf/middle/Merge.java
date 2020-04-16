@@ -41,10 +41,8 @@ public class Merge {
                 pre = intervals[i];
             }
         }
-
         // 把最后一个放进去
         ans.add(pre);
-
         return ans.toArray(new int[ans.size()][2]);
     }
 }
