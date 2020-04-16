@@ -51,6 +51,7 @@
      | [355](https://leetcode-cn.com/problems/design-twitter/)      | 设计推特             | 1                                                            |
      | [面试题05.04](https://leetcode-cn.com/problems/closed-number-lcci/) | 下一个数             | 1                                                            |
      | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | 两数相加II           | 1                                                            |
+     | [542](https://leetcode-cn.com/problems/01-matrix/)           | 01矩阵               | 1                                                            |
 
    * 困难
 
